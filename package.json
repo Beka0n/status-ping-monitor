@@ -1,0 +1,9 @@
+{
+    "name": "Monitor",
+    "version": "0.0.1",
+    "description": "Website status monitor",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app"
+    }
+  }
